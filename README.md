@@ -3,7 +3,6 @@ Akış diyagramları kullanılarak kullanım durumu tablosu oluşturulmasına y�
 
 **Kullanım Durumu Şablonu**
 
-```markdown
 | **Tanım** |Kullanım durumunun neyi kapsadığını, amacını ve bağlamını açıklamak için kullanılır. Bu bölüm,   kullanım durumunun kısa ve net bir açıklamasını içermelidir.|
 |---------------------	|-----------------------------------------------------------------------|
 |**Aktörler**| İlgili  kullanım durumunu gerçekleştirmeye yetkili olan kullanıcı sınıf(lar)ını belirtir.|
