@@ -3,11 +3,11 @@ Akış diyagramları kullanılarak kullanım durumu tablosu oluşturulmasına y�
 
 **Kullanım Durumu Şablonu**
 
-| **Tanım** |Kullanım durumunun neyi kapsadığını, amacını ve bağlamını açıklamak için kullanılır. Bu bölüm,   kullanım durumunun kısa ve net bir açıklamasını içermelidir.|
+| **Tanım** |Kullanım durumunun neyi kapsadığını, amacını ve bağlamını açıklamak için kullanılır. Bu bölüm, kullanım durumunun kısa ve net bir açıklamasını içermelidir.|
 |---------------------	|-----------------------------------------------------------------------|
-|**Aktörler**| İlgili  kullanım durumunu gerçekleştirmeye yetkili olan kullanıcı sınıf(lar)ını belirtir.|
+|**Aktörler** | İlgili  kullanım durumunu gerçekleştirmeye yetkili olan kullanıcı sınıf(lar)ını belirtir.|
 |---------------------	|-----------------------------------------------------------------------|
-|**Ön Koşullar**| Kullanım durumunun başlaması için gerekli olan başlangıç koşullarını tanımlamak için kullanılır.|
+|**Ön Koşullar** | Kullanım durumunun başlaması için gerekli olan başlangıç koşullarını tanımlamak için kullanılır.|
 |---------------------	|-----------------------------------------------------------------------|
 |**Ana Akış**  | Kullanım durumunun normal, beklenen işlem adımlarını detaylandırmak için kullanılır.|
 |---------------------	|-----------------------------------------------------------------------|
@@ -17,4 +17,4 @@ Akış diyagramları kullanılarak kullanım durumu tablosu oluşturulmasına y�
 |---------------------	|-----------------------------------------------------------------------|
 |**İş Kuralları** | Kullanım durumu kapsamında uygulanması gereken spesifik iş kurallarını tanımlamak için kullanılır.|
 |---------------------	|-----------------------------------------------------------------------|
-|**Notlar**| Kullanım durumuyla ilgili ek bilgi, açıklama veya detayları paylaşmak için kullanılır.|
+|**Notlar** | Kullanım durumuyla ilgili ek bilgi, açıklama veya detayları paylaşmak için kullanılır.|
