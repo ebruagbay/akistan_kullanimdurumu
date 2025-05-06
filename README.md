@@ -3,10 +3,9 @@ Akış diyagramları kullanılarak kullanım durumu tablosu oluşturulmasına y�
 
 **Kullanım Durumu Şablonu**
 
+```markdown
 | Tanım | Kullanım durumunun neyi kapsadığını, amacını ve bağlamını açıklamak için kullanılır. Bu bölüm, kullanım durumunun kısa ve net bir açıklamasını içermelidir. |
-
 | Aktörler |İlgili  kullanım durumunu gerçekleştirmeye yetkili olan kullanıcı sınıf(lar)ını belirtir. |
-
 |Ön Koşullar|Kullanım durumunun başlaması için gerekli olan başlangıç koşullarını tanımlamak için kullanılır.|
 |Ana Akış|Kullanım durumunun normal, beklenen işlem adımlarını detaylandırmak için kullanılır.|
 |Alternatif Akış|Ana akışın dışında, belirli koşullarda devreye giren alternatif işlem yollarını açıklamak için kullanılır.|
